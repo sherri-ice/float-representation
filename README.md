@@ -1,2 +1,8 @@
 # float-representation
 Converts float to IEE754 representation
+
+# Build and compile 
+Doesn't require any additional libraries
+
+# GTest
+Some parts of the code uses Goggle Test libraties to test, but it's disabled by default
