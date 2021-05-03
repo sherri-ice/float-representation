@@ -1,5 +1,5 @@
 # float-representation
-Converts float to IEE754 representation
+Represents float to IEE754 standart
 
 # Build and compile 
 Doesn't require any additional libraries
